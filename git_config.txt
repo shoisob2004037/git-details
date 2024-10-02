@@ -1,0 +1,33 @@
+1.
+to check the git version: 
+
+* git version
+
+2.
+#To check global Git username:
+
+* git config --global user.name
+
+#To check global Git email:
+
+* git config --global user.email
+
+3.
+#To check local Git username:
+
+* git config user.name
+
+3.To check local Git email:
+
+* git config user.email
+
+4.
+#You can set your Git username and email if they are not set using the following commands:
+
+* git config --global user.name "YourUsername"
+  git config --global user.email     "youremail@example.com"
+
+5.
+#to check all list
+ *git config --list
+
